@@ -17,14 +17,96 @@ Possible Topics
 
 A series of sound changes that have lead to some US English trap vowels corresponding to palm vowels in Southern British accents like RP, e.g. _dance_ US \[dæns\] / RP \[dɑːns\], while other words have trap vowels in both accents, e.g. _mass_ US/RP \[mæs\]. This looks like an irregular correspondence because it doesn’t seem to be predictable from phonological context whether a US trap vowel will correspond to trap or palm in RP English:
 
-| &nbsp; | US | RP |
-| --- | --- | --- |
-| mass | mæs | mæs |
-| pass | pʰæs | pʰɑːs |
-| ant | ænt | ænt |
-| grant | ɡɹænt | ɡɹɑːnt |
-| asp | æsp | æsp |
-| clasp | kʰlæsp | kʰlɑsp 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+US
+{{< thclose >}}
+{{< thopen >}}
+RP
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+mass
+{{< tdclose >}}
+{{< tdopen >}}
+mæs
+{{< tdclose >}}
+{{< tdopen >}}
+mæs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+pass
+{{< tdclose >}}
+{{< tdopen >}}
+pʰæs
+{{< tdclose >}}
+{{< tdopen >}}
+pʰɑːs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ant
+{{< tdclose >}}
+{{< tdopen >}}
+ænt
+{{< tdclose >}}
+{{< tdopen >}}
+ænt
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+grant
+{{< tdclose >}}
+{{< tdopen >}}
+ɡɹænt
+{{< tdclose >}}
+{{< tdopen >}}
+ɡɹɑːnt
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+asp
+{{< tdclose >}}
+{{< tdopen >}}
+æsp
+{{< tdclose >}}
+{{< tdopen >}}
+æsp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+clasp
+{{< tdclose >}}
+{{< tdopen >}}
+kʰlæsp
+{{< tdclose >}}
+{{< tdopen >}}
+kʰlɑsp
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Wells (1982) argues that these irregular correspondences are the result of a vowel lengthening change that was diffusing through the lexicon, but stopped before it affected all the words containing vowels in the relevant contexts. There are more data on this [Wikipedia page](http://en.wikipedia.org/wiki/Phonological_history_of_English_short_A#Trap.E2.80.93bath_split_in_Received_Pronunciation) and on this [website at the British Library](http://www.bl.uk/learning/langlit/sounds/changingvoices/phonological-change/trap-bath-split/).
 
@@ -32,11 +114,69 @@ Wells (1982) argues that these irregular correspondences are the result of a vow
 
 In US English, some Middle English short ‘o’ vowels have developed into the lot/palm vowel (e.g. \[ɑ\]), as in _lot_, while others have merged with the thought vowel \[ɔ\] (in dialects with a lot-thought contrast), as in _cloth_, but it does not seem to be entirely predictable which outcome you get in a given word. So the short ‘o’ phoneme has split, suggesting an irregular sound change. (Actually there is probably more than one change involved: short ‘o’ lengthened before voiceless fricatives in the 17th Century, and subsequently merged with long \[ɔ\] in US English). The unlengthened short ‘o’ vowels unrounded to \[ɑ\] in most of the US.
 
-| Earlier form  | lɒt | klɒθ |
-| o lengthening | \- | klɒːθ |
-| THOUGHT merger | \- | klɔθ |
-| LOT unrounding | lɑt | \- |
-| Later form | lɑt | klɔθ 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Earlier form 
+{{< tdclose >}}
+{{< tdopen >}}
+lɒt
+{{< tdclose >}}
+{{< tdopen >}}
+klɒθ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+o lengthening
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+{{< tdopen >}}
+klɒːθ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+THOUGHT merger
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+{{< tdopen >}}
+klɔθ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LOT unrounding
+{{< tdclose >}}
+{{< tdopen >}}
+lɑt
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Later form
+{{< tdclose >}}
+{{< tdopen >}}
+lɑt
+{{< tdclose >}}
+{{< tdopen >}}
+klɔθ
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The ɒ > ɔ change seems to have applied more or less regularly before word-final fricatives, but seems to be irregular before medial fricatives (e.g. _foster_, but not _roster_), and has been extended in some dialects to apply before some voiced velar stops and nasals (_dog_, _long_), and a few alveolar nasals (usually just _on_, _gone_). So this change looks like a possible example of lexical diffusion.
 

@@ -51,49 +51,843 @@ The recording
 
 The recording \[not accessible to OCW users\] includes the following words illustrating trap and dress vowels. (Most of the words with dress vowels are probably not relevant at the moment.)
 
-| Monosyllables | Polysyllables - Open syllable | Polysyllables - Closed syllable |
-| --- | --- | --- |
-| Voiced Stops | Voiced Stops | Voiced Stops |
-| sad | said | radish | meadow | admiral | Edna |
-| pad | Ted | ladder | pedal | abdomen | hebdomadal |
-| bad | bed | cabin | rebel | Agnes | segment |
-| mad | &nbsp; | cabbage | debit | magnet | &nbsp; |
-| glad | &nbsp; | maggot | beggar | &nbsp; |
-| slab | &nbsp; | baggage | &nbsp; | Voiceless Fricatives |
-| bag | beg | &nbsp; | after | &nbsp; |
-| stag | &nbsp; | Voiceless Fricatives | Alaska | &nbsp; |
-| &nbsp; | affable | effort | asterisk | ester |
-| Voiceless Stops | baffle | &nbsp; |
-| mat | met | catheter | method | Nasals |
-| bat | &nbsp; | Catherine | &nbsp; | candidate | Kendall |
-| slap | slept | castle | lesson | anchovy | &nbsp; |
-| tap | kept | passive | &nbsp; | canyon | Kenyon |
-| back | beck | fashion | &nbsp; | amber | ember |
-| stack | &nbsp; | passion | special | lambda | &nbsp; |
-| &nbsp; | amnesty | &nbsp; |
-| Voiceless Fricatives | Voiced Fricatives | anger | &nbsp; |
-| laugh | &nbsp; | cavern | Kevin | &nbsp; |
-| half | deaf | avenue | &nbsp; |
-| bath | Beth | hazard | &nbsp; | Reference Vowels |
-| pass | &nbsp; | dazzle | desert | heed | &nbsp; |
-| mass | mess | &nbsp; | hid | &nbsp; |
-| mash | mesh | Nasals | big | &nbsp; |
-| &nbsp; | banish | &nbsp; | head | &nbsp; |
-| Voiced fricatives | planet | &nbsp; | hog | &nbsp; |
-| halve | &nbsp; | manner | menace | &nbsp; |
-| jazz | &nbsp; | famish | feminine | &nbsp; |
-| &nbsp; | camel | chemical | &nbsp; |
-| Nasals | hangar | &nbsp; |
-| man | men | &nbsp; |
-| ban | Ben | &nbsp; |
-| slam | hem | &nbsp; |
-| hand | &nbsp; |
-| dance | dense | &nbsp; |
-| bang | &nbsp; |
-| hang | &nbsp; |
-| &nbsp; |
-| Liquids | &nbsp; |
-| pal | pell | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Monosyllables
+{{< thclose >}}
+{{< thopen >}}
+Polysyllables - Open syllable
+{{< thclose >}}
+{{< thopen >}}
+Polysyllables - Closed syllable
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Voiced Stops
+{{< thclose >}}
+{{< thopen >}}
+Voiced Stops
+{{< thclose >}}
+{{< thopen >}}
+Voiced Stops
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+sad
+{{< tdclose >}}
+{{< tdopen >}}
+said
+{{< tdclose >}}
+{{< tdopen >}}
+radish
+{{< tdclose >}}
+{{< tdopen >}}
+meadow
+{{< tdclose >}}
+{{< tdopen >}}
+admiral
+{{< tdclose >}}
+{{< tdopen >}}
+Edna
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+pad
+{{< tdclose >}}
+{{< tdopen >}}
+Ted
+{{< tdclose >}}
+{{< tdopen >}}
+ladder
+{{< tdclose >}}
+{{< tdopen >}}
+pedal
+{{< tdclose >}}
+{{< tdopen >}}
+abdomen
+{{< tdclose >}}
+{{< tdopen >}}
+hebdomadal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+bad
+{{< tdclose >}}
+{{< tdopen >}}
+bed
+{{< tdclose >}}
+{{< tdopen >}}
+cabin
+{{< tdclose >}}
+{{< tdopen >}}
+rebel
+{{< tdclose >}}
+{{< tdopen >}}
+Agnes
+{{< tdclose >}}
+{{< tdopen >}}
+segment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+mad
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+cabbage
+{{< tdclose >}}
+{{< tdopen >}}
+debit
+{{< tdclose >}}
+{{< tdopen >}}
+magnet
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+glad
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+maggot
+{{< tdclose >}}
+{{< tdopen >}}
+beggar
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+slab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+baggage
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< thopen >}}
+Voiceless Fricatives
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+bag
+{{< tdclose >}}
+{{< tdopen >}}
+beg
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+after
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+stag
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< thopen >}}
+Voiceless Fricatives
+{{< thclose >}}
+{{< tdopen >}}
+Alaska
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+affable
+{{< tdclose >}}
+{{< tdopen >}}
+effort
+{{< tdclose >}}
+{{< tdopen >}}
+asterisk
+{{< tdclose >}}
+{{< tdopen >}}
+ester
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Voiceless Stops
+{{< thclose >}}
+{{< tdopen >}}
+baffle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+mat
+{{< tdclose >}}
+{{< tdopen >}}
+met
+{{< tdclose >}}
+{{< tdopen >}}
+catheter
+{{< tdclose >}}
+{{< tdopen >}}
+method
+{{< tdclose >}}
+{{< thopen >}}
+Nasals
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+bat
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Catherine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+candidate
+{{< tdclose >}}
+{{< tdopen >}}
+Kendall
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+slap
+{{< tdclose >}}
+{{< tdopen >}}
+slept
+{{< tdclose >}}
+{{< tdopen >}}
+castle
+{{< tdclose >}}
+{{< tdopen >}}
+lesson
+{{< tdclose >}}
+{{< tdopen >}}
+anchovy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+tap
+{{< tdclose >}}
+{{< tdopen >}}
+kept
+{{< tdclose >}}
+{{< tdopen >}}
+passive
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+canyon
+{{< tdclose >}}
+{{< tdopen >}}
+Kenyon
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+back
+{{< tdclose >}}
+{{< tdopen >}}
+beck
+{{< tdclose >}}
+{{< tdopen >}}
+fashion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+amber
+{{< tdclose >}}
+{{< tdopen >}}
+ember
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+stack
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+passion
+{{< tdclose >}}
+{{< tdopen >}}
+special
+{{< tdclose >}}
+{{< tdopen >}}
+lambda
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+amnesty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Voiceless Fricatives
+{{< thclose >}}
+{{< thopen >}}
+Voiced Fricatives
+{{< thclose >}}
+{{< tdopen >}}
+anger
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+laugh
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+cavern
+{{< tdclose >}}
+{{< tdopen >}}
+Kevin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+half
+{{< tdclose >}}
+{{< tdopen >}}
+deaf
+{{< tdclose >}}
+{{< tdopen >}}
+avenue
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+bath
+{{< tdclose >}}
+{{< tdopen >}}
+Beth
+{{< tdclose >}}
+{{< tdopen >}}
+hazard
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< thopen >}}
+Reference Vowels
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+pass
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+dazzle
+{{< tdclose >}}
+{{< tdopen >}}
+desert
+{{< tdclose >}}
+{{< tdopen >}}
+heed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+mass
+{{< tdclose >}}
+{{< tdopen >}}
+mess
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+hid
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+mash
+{{< tdclose >}}
+{{< tdopen >}}
+mesh
+{{< tdclose >}}
+{{< thopen >}}
+Nasals
+{{< thclose >}}
+{{< tdopen >}}
+big
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+banish
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+head
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Voiced fricatives
+{{< thclose >}}
+{{< tdopen >}}
+planet
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+hog
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+halve
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+manner
+{{< tdclose >}}
+{{< tdopen >}}
+menace
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+jazz
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+famish
+{{< tdclose >}}
+{{< tdopen >}}
+feminine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+camel
+{{< tdclose >}}
+{{< tdopen >}}
+chemical
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Nasals
+{{< thclose >}}
+{{< tdopen >}}
+hangar
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+man
+{{< tdclose >}}
+{{< tdopen >}}
+men
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ban
+{{< tdclose >}}
+{{< tdopen >}}
+Ben
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+slam
+{{< tdclose >}}
+{{< tdopen >}}
+hem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+hand
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+dance
+{{< tdclose >}}
+{{< tdopen >}}
+dense
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+bang
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+hang
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Liquids
+{{< thclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+pal
+{{< tdclose >}}
+{{< tdopen >}}
+pell
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The words were recorded in the following random order:
 

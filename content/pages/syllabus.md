@@ -79,12 +79,57 @@ Course Requirements
 Grading
 -------
 
-| TASKS | PERCENTAGE OF GRADE |
-| --- | --- |
-| Assignments | 40 % |
-| Draft of final project | 10 % |
-| Oral presentation of project | 20 % |
-| Final paper | 30 % 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TASKS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE OF GRADE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+40 %
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Draft of final project
+{{< tdclose >}}
+{{< tdopen >}}
+10 %
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation of project
+{{< tdclose >}}
+{{< tdopen >}}
+20 %
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+30 %
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------
