@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: dd6efe84-262f-6ded-affb-a7350fedfee8
 title: '"Your vowels" exercise'
 uid: e4f669db-18c9-fda6-9155-7493b164bcc3

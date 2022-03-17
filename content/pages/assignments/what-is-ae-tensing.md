@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: dd6efe84-262f-6ded-affb-a7350fedfee8
 title: "Short Paper 1: What is /\xE6/-tensing?"
 uid: e4d20a86-179f-459c-2c2c-3321342d0a2c
@@ -54,13 +58,13 @@ The recording \[not accessible to OCW users\] includes the following words illus
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Monosyllables
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Polysyllables - Open syllable
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Polysyllables - Closed syllable
 {{< thclose >}}
 
@@ -68,13 +72,13 @@ Polysyllables - Closed syllable
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Voiced Stops
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Voiced Stops
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Voiced Stops
 {{< thclose >}}
 
@@ -197,7 +201,7 @@ baggage
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Voiceless Fricatives
 {{< thclose >}}
 
@@ -230,7 +234,7 @@ stag
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Voiceless Fricatives
 {{< thclose >}}
 {{< tdopen >}}
@@ -263,7 +267,7 @@ ester
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Voiceless Stops
 {{< thclose >}}
 {{< tdopen >}}
@@ -293,7 +297,7 @@ catheter
 {{< tdopen >}}
 method
 {{< tdclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Nasals
 {{< thclose >}}
 
@@ -425,10 +429,10 @@ amnesty
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Voiceless Fricatives
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Voiced Fricatives
 {{< thclose >}}
 {{< tdopen >}}
@@ -494,7 +498,7 @@ hazard
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Reference Vowels
 {{< thclose >}}
 
@@ -548,7 +552,7 @@ mash
 {{< tdopen >}}
 mesh
 {{< tdclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Nasals
 {{< thclose >}}
 {{< tdopen >}}
@@ -581,7 +585,7 @@ head
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Voiced fricatives
 {{< thclose >}}
 {{< tdopen >}}
@@ -662,7 +666,7 @@ chemical
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Nasals
 {{< thclose >}}
 {{< tdopen >}}
@@ -848,7 +852,7 @@ hang
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Liquids
 {{< thclose >}}
 {{< tdopen >}}

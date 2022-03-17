@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: dd6efe84-262f-6ded-affb-a7350fedfee8
 title: 'Short Paper 2: Lexical diffusion'
 uid: 3e85ec97-f689-6310-5ece-d6d4dd022b31
@@ -112,7 +116,7 @@ Wells (1982) argues that these irregular correspondences are the result of a vow
 
 ### 2\. lot-cloth split
 
-In US English, some Middle English short ‘o’ vowels have developed into the lot/palm vowel (e.g. \[ɑ\]), as in _lot_, while others have merged with the thought vowel \[ɔ\] (in dialects with a lot-thought contrast), as in _cloth_, but it does not seem to be entirely predictable which outcome you get in a given word. So the short ‘o’ phoneme has split, suggesting an irregular sound change. (Actually there is probably more than one change involved: short ‘o’ lengthened before voiceless fricatives in the 17th Century, and subsequently merged with long \[ɔ\] in US English). The unlengthened short ‘o’ vowels unrounded to \[ɑ\] in most of the US.
+In US English, some Middle English short ‘o’ vowels have developed into the lot/palm vowel (e.g. \[ɑ\]), as in _lot_, while others have merged with the thought vowel \[ɔ\] (in dialects with a lot-thought contrast), as in _cloth_, but it does not seem to be entirely predictable which outcome you get in a given word. So the short ‘o’ phoneme has split, suggesting an irregular sound change. (Actually there is probably more than one change involved: short ‘o’ lengthened before voiceless fricatives in the 17{{< sup "th" >}} Century, and subsequently merged with long \[ɔ\] in US English). The unlengthened short ‘o’ vowels unrounded to \[ɑ\] in most of the US.
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -186,7 +190,7 @@ It will be important to check etymologies of words—the sound change of interes
 
 ### 3\. foot-strut split
 
-In the early 17th Century, Middle English short \[ʊ\] unrounded to \[ʌ\] (strut) in words like _cut_, but not in words like _put_ (foot words). (The change presumably involved intermediate steps, e.g. ʊ > ɤ > ʌ). Preceding labials tended to block unrounding (as in _put_, _full_), but incidence of the change is apparently not predictable (e.g. _putt_, _fun_ are strut words in spite of beginning with labials). So the ʊ > ʌ change is a candidate for a change that was diffusing through the lexicon, but was never completed.
+In the early 17{{< sup "th" >}} Century, Middle English short \[ʊ\] unrounded to \[ʌ\] (strut) in words like _cut_, but not in words like _put_ (foot words). (The change presumably involved intermediate steps, e.g. ʊ > ɤ > ʌ). Preceding labials tended to block unrounding (as in _put_, _full_), but incidence of the change is apparently not predictable (e.g. _putt_, _fun_ are strut words in spite of beginning with labials). So the ʊ > ʌ change is a candidate for a change that was diffusing through the lexicon, but was never completed.
 
 The main focus should be on strut words, since they mostly come from short \[ʊ\] by unrounding, whereas foot words can also come from later shortening of long \[u\], as in _good_, making it hard to tell which foot vowels are the result of blocked unrounding. (This u-shortening is also an irregular change—see below). Look for exceptions to the generalization that the strut vowel should not follow labials, and see if they follow any more specific generalizations, or if the change was truly irregular.
 

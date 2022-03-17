@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: dd6efe84-262f-6ded-affb-a7350fedfee8
 title: 'Short Paper 3: Computational models of sound change'
 uid: cb96fded-cade-ab94-cf79-bcf7e33437b5
