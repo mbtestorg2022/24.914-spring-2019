@@ -30,9 +30,9 @@ Polysyllables - Closed syllable
 {{< tbodyopen >}}
 
 {{< tropen >}}
-{{< tdopen >}}
+{{< thopen >}}
 sad
-{{< tdclose >}}
+{{< thclose >}}
 {{< tdopen >}}
 said
 {{< tdclose >}}
@@ -50,9 +50,9 @@ Edna
 {{< tdclose >}}
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen colspan="3" >}}
+{{< tdopen colspan="3" >}}
 sad2
-{{< thclose >}}
+{{< tdclose >}}
 {{< thopen colspan="2" >}}
 said2
 {{< thclose >}}
@@ -64,9 +64,9 @@ radish2
 {{< tdopen >}}
 sad
 {{< tdclose >}}
-{{< tdopen >}}
+{{< thopen >}}
 said
-{{< tdclose >}}
+{{< thclose >}}
 {{< tdopen >}}
 radish
 {{< tdclose >}}
