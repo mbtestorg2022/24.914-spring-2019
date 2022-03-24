@@ -72,7 +72,7 @@ Lectures
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 6: Regular Sound Change vs. Lexical Diffusion (PDF)]({{< baseurl >}}/resources/mit24_914s19_lec6)
+[Lecture 6: Regular Sound Change vs. Lexical Diffusion (PDF)]({{< baseurl >}}/resources/mit24_914s19_lec6)
 {{< tdclose >}}
 
 {{< trclose >}}

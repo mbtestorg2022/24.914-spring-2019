@@ -12,7 +12,7 @@ uid: 5342f6c4-5fd0-9625-1f79-74942566ca34
 
 [PhillyTawk: Overview of mid-Atlantic English, Part 3 (YouTube)](https://www.youtube.com/watch?v=QLDjE33_uRM)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linguistics Society of America (LSA) style sheet (PDF)](https://www.linguisticsociety.org/sites/default/files/style-sheet_0.pdf)
+[Linguistics Society of America (LSA) style sheet (PDF)](https://www.linguisticsociety.org/sites/default/files/style-sheet_0.pdf)
 
 [Word frequency data from the American National Corpus](http://www.anc.org/data/anc-second-release/frequency-data/)
 
@@ -28,7 +28,7 @@ uid: 5342f6c4-5fd0-9625-1f79-74942566ca34
 
 [Web CELEX (searchable lexical database)](http://celex.mpi.nl/)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Key to DISC transcriptions in CELEX (PDF)](http://groups.linguistics.northwestern.edu/speech_comm_group/documents/CELEX/Phonetic%20codes%20for%20CELEX.pdf)
+[Key to DISC transcriptions in CELEX (PDF)](http://groups.linguistics.northwestern.edu/speech_comm_group/documents/CELEX/Phonetic%20codes%20for%20CELEX.pdf)
 
 [English lemmas in CELEX (TXT)]({{< baseurl >}}/resources/celexlemmasintranscription-disc)
 

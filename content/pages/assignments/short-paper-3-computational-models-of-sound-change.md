@@ -21,9 +21,9 @@ Our list of properties of sound change may be useful in evaluating models. Also 
 Suggested papers
 ----------------
 
-Ettlinger, Marc (2007) ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Shifting Categories: An exemplar-based computational model of chain shifts (PDF)](http://linguistics.berkeley.edu/phonlab/documents/2007/op463-ettlinger1.pdf). _UC Berkeley Phonology Lab Annual Report,_ pp. 177–182_._
+Ettlinger, Marc (2007) [Shifting Categories: An exemplar-based computational model of chain shifts (PDF)](http://linguistics.berkeley.edu/phonlab/documents/2007/op463-ettlinger1.pdf). _UC Berkeley Phonology Lab Annual Report,_ pp. 177–182_._
 
-Johnson, Keith, and Garrett, Andrew (2013) ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Phonetic bias in sound change (PDF - 2.9 MB)](http://linguistics.berkeley.edu/phonlab/documents/2011/Garrett_Johnson_2011.pdf). Alan Yu (ed.) _Origins of Sound Change: Approaches to Phonologization._ Oxford University Press, pp. 9–61.
+Johnson, Keith, and Garrett, Andrew (2013) [Phonetic bias in sound change (PDF - 2.9 MB)](http://linguistics.berkeley.edu/phonlab/documents/2011/Garrett_Johnson_2011.pdf). Alan Yu (ed.) _Origins of Sound Change: Approaches to Phonologization._ Oxford University Press, pp. 9–61.
 
 *   Focus on section 3.6 ‘A model of actuation’. This section proposes models of the actuation of sound change, an issue that is set aside by Pierrehumbert and many other computational models of change.
 
@@ -35,7 +35,7 @@ Todd, Simon, Pierrehumbert, Janet B., & Hay, Jennifer (2019) [Word frequency eff
 
 *   This paper may not be the best option because it presents a pretty complicated model designed to account for a relatively narrow set of phenomena (frequency effects on sound change), but it builds directly on Pierrehumbert (2001) and comes with Python code.
 
-Wedel, Andrew (2006) ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exemplar models, evolution and language change (PDF)](https://chd.ucsd.edu/_files/fall2008/Wedel.2006.TLR.pdf). _The Linguistic Review_ 23, 247–274.
+Wedel, Andrew (2006) [Exemplar models, evolution and language change (PDF)](https://chd.ucsd.edu/_files/fall2008/Wedel.2006.TLR.pdf). _The Linguistic Review_ 23, 247–274.
 
 *   Exemplar model inspired by evolutionary theory.
 
