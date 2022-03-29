@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: dd6efe84-262f-6ded-affb-a7350fedfee8
 title: Phonetic transcription exercise
 uid: b39c2a9e-c4a4-d1d2-9c8a-3d8353d22222
